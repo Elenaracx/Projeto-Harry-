@@ -20,7 +20,7 @@
   
   Módulo 4:
   
-  Módulo 5:
+  Módulo 5: Implementamos a classe "Professores" como um unico arquivo que ao rodar o código cadastra professores com nome e e-mail. Permite adicionar as disciplinas, horários e atividades deles. Depois, mostra todas essas informações organizadas na tela. Esse módulo foi feito pela Elenara e Vinicius no dia 02/07/2025.
   
   Módulo 6:
 
